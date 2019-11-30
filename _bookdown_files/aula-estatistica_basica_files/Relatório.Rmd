@@ -1,0 +1,97 @@
+---
+title: "Relatório"
+author: "Vinicius"
+date: "25/11/2019"
+output: html_document
+---
+
+
+# Introdução
+
+   Neste breve relatório serão descritos os relatos, experiências e opiniões dos estudantes do curso de tecnologia em radiologia do IFPE,Campus Recife, na realização da pesquisa realizada no próprio campus, para avaliar as causas da evasão escolar do referido curso.A equipe executora desta pesquisa esteve sob a supervisão do professor Samuel Victor Medeiros de Macedo.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+
+# Relatos
+
+
+
+
+#### **RELATO DE NATHALIA INGRID DE LIMA CONSTÂNCIO (1º PERÍODO)**
+
+   Participei da aplicação do questionário, fomos bem recepcionados pela turma, ao chegarmos na sala foi explicado pelo professor o motivo da pesquisa é a turma si mostrou bastanteparticipativa. O questionário tinha como objetivo saber o principal motivo que as pessoas evadiram do curso de Radiologia. No formulário pedia o CPF ou matrícula do aluno, o motivo e logo abaixo uma caixinha para deixar alguma sugestão onde foi observado que a maioria colocou alguma sugestão. Foi notório que o principal motivo que fazia ou fez uma pessoa desistir do curso era que as pessoas entravam no curso com o objetivo que o curso fosse mais voltado para área de saúde e quando chegam para cursar veem que o curso é mais voltado para exatas. Uma sugestão que achei interessante foi a de ver alguma possibilidade de igualar a quantidade de cadeiras de cálculos com as mais voltadas para a área de saúde.
+   
+#### **RELATO DE MIGUEL HENRIQUE DANTAS DE VASCONCELOS(1º PERÍODO)**
+
+   Fui um dos alunos participantes na pesquisa do projeto do Prof. Samuel sobre o motivo de Evasão no curso de radiologia. Fiz parte da pesquisa nas 3 turmas, nos receberam muito bem e todos se mostram interessados no assunto do projeto pois não me vi sozinho nos meusquestionamentos sobre o curso na qual estudo. Pela minha percepção a parte forte em exatas e a falta de flexibilidade no horário das aulas se mostraram uma parte do problema das turmas e também da minha. Por exemplo, hoje, não sei dizer se me formarei no curso, não por causa dos horários e sim por conta da ementa do curso e de seu lado voltado para área de exatas. Mas vou me esforçar para que com esse projeto o curso pelo menos possa mudar um pouco e se tornar mais atrativo aos alunos (já que a faculdade foi criada visando os estudantes).
+   
+#### **RELATO DE SUELEN BEZERRA DA SILVA (1º PERÍODO)**
+
+   No dia 11/11/2019 começamos a aplicação dos questionários sobre evasão com turma do 3º período do curso de Radiologia, então presentes em sala de aula 11 alunos e para uma aluna que a havia faltado, foi enviado o questionário via link. Também para quatro alunos que, previamente nos foi avisado que possivelmente já haviam evadido do curso, enviamos l link. 
+Em todas as salas em que fomos passando, entramos em contato com a representante de sala, para a mesma nos fornecer os contatos dos demais alunos faltosos e Desistentes.
+
+   **Pontos positivos**: Aos que estavam presentes, foram bastante participativos, elogiaram primeiro a iniciativa. Observei as sugestões deles, e vi bastantes coincidências de respostas. O professor presente em Sala se mostrou bastante flexível e facilitou a nossa comunicação entre com os demais alunos.
+   
+  **Pontos negativos**: tiveram alguns alunos que já evadiram que ninguém da turma possui o contato, portanto, dificultando o compartilhamento do link.
+  
+Dia 11/11/2019 Turma do 5º período Alunos presentes em sala apenas: 5 Alunos faltosos e Desistentes: 9 Solicitamos a representante de sala o número dos celulares de cada aluno desses, e nos foi fornecido, tentamos estabelecer comunicação via Link.
+
+  **Pontos positivos**: Por ser uma turma mais antiga, foram bastante críticas as respostas deles, inclusive alguma dos motivos citados por eles, eu SUELEN, super que concordo, exemplo: A mudança da ementa do curso alguns pontos, como eu sou novata, ainda não tive a experiência. Outro exemplo citado, é a questão dos estágios.Pois em ressonância elas ficam apenas 1 semana em estágio, ou seja, em apenas 1 semana dá para aprender?
+  
+  **Pontos negativos**: Devido à pouca quantidade de alunos presentes em sala, a maioria dos questionários foram enviados via link. O que, por certa forma, ficando na incógnita se saber se os alunos responderam mesmo ou não ao questionário. O contato pessoal, em minha opinião, facilita mais a comunicação e a obtenção das respostas.
+  
+  **Observações**: Existe uma turma no IFPE, que está sendo preparada para a prova do Enade, entramos em contatos com os mesmos, e aplicamos também o link do questionário, e solicitamos que, por favor, repassassem para as demais pessoas de suas respectivas turmas o Link, para obtermos assim o maior quantitativo possível de sugestões. Teve uma turma que estava em estágio, e esses também responderam através do Link.
+  
+**Conclusão**: Nos dias das aplicações dos questionários, estavam presentes os alunos: Suelen Bezerra, Saulo Cesário, Joelson José, Miguel Vasconcelos, Katyane Regina, Nathalia Ingrid, Whoody Alem. Minha opinião com relação ao grupo foi bastante positiva, todos bem participativos, empenhados, organizados, educados, etc. O que facilitou muito a comunicação, aplicação e conclusão do projeto. Adorei ter participado dessa experiência ímpar, e espero que através desses dados, possamos argumentar e conseguir a melhora das sugestões que nos foram passadas. Espero baseadas em fatos, ter argumento para junto a Reitoria e aos departamentos, buscarmos a melhoria do Nosso Curso, diminuindo assim, as possíveis causas das evasões.
+
+#### **RELATO DE JOELSON JOSÉ DE ARAÚJO JÚNIOR(6º PERÍODO)**
+
+Foram realizadas a pesquisa nas salas C47 com a turma do 3º período e na E11 com a turma do 5º período fomos bem recebidos por todos, foi explicado o motivo do estudo pelo professor Samuel, que tinha como foco saber o porquê da evasão dos alunos da faculdade, essa análise foi feita por representantes do grupo. Onde colocamos algumas perguntas que levavam em conta o por que desistiram ou se caso fossem desistir e logo embaixo desse exame, um local onde eles tinham que colocar as sugestões que diminuiriam essas evasões, após ser realizado a pesquisa foi visto que a maioria dos alunos tem algumas dificuldades por conta da ementa do curso, pois é mais voltado para a área de exatas e não para a área de saúde como alguns pensavam. Dentre as principais sugestões foi a que é preciso rever a ementa do curso.
+
+#### **RELATO DE SAULO CESÁRIO DE LIMA (6º PERÍODO)**
+  Para a aplicação da pesquisa em sala não encontrei dificuldades gritantes, as turmas e professores nos receberam muito bem, nos dando espeço para a aplicação. 
+  A primeira impressão que tive foi a de que os alunos ficaram bastante sedentos para responder à pesquisa, assim que falamos do que se tratava. Alguns até expressaram seus motivos e opiniões em sala mesmo.
+
+  A outra impressão foi justamente, que alguns outros alunos ficaram indiferentes com a situação e que acreditavam que esta pesquisa não surtiria efeito algum ou que nada vai mudar depois dela.
+
+  A experiência em sala, foi a esperada. Conseguimos passar todas as ideias do porquê que a análise está sendo realizada e os benefícios que ela pode trazer a longo prazo, tendo em vista, que o grupo docente responsável tentará tomar algumas iniciativas para as mais diversas melhorias do nosso curso, isso também, para passar uma confiança maior para os estudantes.
+
+  Por fim, de todos os passos da pesquisa, o que particularmente mais foi desafiador, foi realmente fazer com o que o nosso alvo principal, que são os estudantes que já evadiram, respondessem à simples pesquisa, aparentemente eles não estão com nenhuma ou quase nenhuma atenção voltada ao que deixaram para trás.
+
+#### **RELATO DE WHOODY ALEM WANDERLEY ARARIPE FARIAS (6º PERÍODO)**
+
+   A criação do questionário foi debatida pelos membros integrantes da equipe, que são alunos do curso de tecnologia em radiologia e o professor. Desta forma, foi possível elaborar questões objetivas de situações que são enfrentadas pelos alunos do curso.
+  
+  A coleta de dados foi obtida sem problemas, pois os alunos ficaram empolgados em responder as questões e apontar o que pode ser melhorado no curso. Uma análise preliminar dos dados apontou que os principais problemas enfrentados pelos alunos é o déficit de conteúdo do ensino médio é dificuldades em disciplinas com conteúdo de ciências exatas.
+  
+  Na minha opinião, as disciplinas de ciências exatas são de extrema importância para a formação do tecnólogo em radiologia. Por lei, é este profissional que deve gerir os setores de radiologia em clínicas e hospitais e deve ainda, garantir o uso seguro das radiações ionizantes nesses locais. Para isso é imprescindível o domínio da física das radiações.
+  
+  Alem disso, em contato informal com turmas de egressos do curso, é possível verificar que em média 3 alunos de cada turma fazem e/ou fizeram pós-graduação a nível de mestrado ou doutorado no programa de Pós-Graduação em Tecnologias Energéticas e Nucleares da Universidade Federal de Pernambuco (UFPE). Essa análise empírica corrobora a importância de disciplinas de ciências exatas no curso.
+  
+  Minha sugestão para diminuir a evasão e melhorar a instrução dos tecnólogos em radiologia em formação no IFPE, é a inclusão de uma disciplina de matemática **REALMENTE** básica, no primeiro período, para suprir o déficit de conteúdo dos alunos ingressantes. Com isso, a atual disciplina chamada de “matemática básica” (mas que engloba os assuntos de cálculo 1) seria incluída na grade curricular do segundo período. Acredito que a disciplina de estatística também deva ser ministrada no segundo período, pois os alunos já possuirão mais conhecimento matemático.
+  
+#### **KATYANE REGINA DE SANTANA RODRIGUES ALBUQUERQUE**
+
+  Ao longo da pesquisa passamos por várias etapas, desde a elaboração das perguntas, até a aplicação dos questionários, onde estive mais envolvida nas aplicações e no envio dos links da pesquisa para alunos que não estavam presentes durante a pesquisa, ou que por algum motivo não estavam participando efetivamente da turma. No primeiro momento entrevistamos o 3° período que se mostrou muito receptivo conosco e muito interessado em colaborar com a pesquisa, fornecendo inclusive dados para contato de alunos que já haviam se ausentado do curso. No entanto o que realmente me chamou a atenção foi a aplicação da pesquisa no 5° período, com uma turma consideravelmente reduzida(havia cerca de 6 alunos na sala de aula), a insatisfação era notória por parte de alguns alunos, nesse momento pude entender a real importância desta pesquisa, uma vez que já achava preocupante o número de alunos desistentes na minha turma que ainda está no 1° período, e a situação se agrava com o avançar dos períodos.
+  
+  No segundo momento onde tive contato com alunos que haviam abandonado ou apenas trancado o curso, as queixas predominantes eram a respeito do horário e da dificuldade de conciliar o curso com seus empregos(os quais não podem ser abandonados pois precisam se manter) esse foi o motivo do trancamento da matrícula de alguns dos alunos com os quais tive contato, outro forte motivo de reclamação por parte deles (inclusive foi especificamente o motivo do abandono por parte de uma das entrevistadas) foi a dificuldade em lidar com a carga de disciplinas exatas do curso, o que segundo ela não era esperado. Por fim pude perceber a satisfação dos alunos em serem ouvidos e a esperança de que esse estudo possa efetivamente colaborar para a melhoria do curso.
+
+
+
+
+
+   
